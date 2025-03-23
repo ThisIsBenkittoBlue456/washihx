@@ -1,0 +1,9 @@
+{
+	"name": "washihx",
+	"license": "MIT",
+	"tags": ["cross","network","Multiplayer"],
+	"description": "librería que permite hacer un multijugador online",
+	"contributors": ["ThisIsBenkittoBlue456"],
+	"releasenote": "Por ahora ninguno",
+	"version": "1.0.0"
+}
